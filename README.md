@@ -74,5 +74,3 @@ Nesta atividade, você aprenderá a contribuir com um projeto colaborativo usand
 - **Feedback e Discussão:** Após a atividade, discuta com seus colegas sobre o processo de colaboração, revisão de código e resolução de conflitos diretamente no GitHub. Aproveite para revisar os Pull Requests uns dos outros e aprender com as contribuições dos colegas.
 
 - **Boas Práticas:** Lembre-se de fazer commits atômicos, usar mensagens claras de commit e seguir práticas eficazes de colaboração ao trabalhar em projetos compartilhados com Git.
-
-Essa atividade proporcionará a você uma experiência prática valiosa com o Git e GitHub, além de ensinar habilidades essenciais de colaboração e trabalho em equipe no desenvolvimento de software.
