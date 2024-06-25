@@ -1,7 +1,7 @@
 ## Atividade com Git: Contribuição e Resolução de Conflitos
 
 ### Objetivo:
-Nesta atividade, você aprenderá a contribuir com um projeto colaborativo usando o Git e GitHub. Você fará um fork de um repositório da professora, adicionará seu nome a um arquivo `LISTA.md`, fará um commit das alterações, enviará essas alterações para seu repositório forkado no GitHub e criará um Pull Request para contribuir de volta ao repositório original da professora. Você também aprenderá a resolver conflitos de merge diretamente no GitHub.
+Nesta atividade, você aprenderá a contribuir com um projeto colaborativo usando o Git e GitHub. Você fará um fork de um repositório deste repositório, adicionará seu nome a um arquivo `LISTA.md`, fará um commit das alterações, enviará essas alterações para seu repositório forkado no GitHub e criará um Pull Request para contribuir de volta ao repositório original. Você também aprenderá a resolver conflitos de merge diretamente no GitHub.
 
 ### Passo a Passo:
 
@@ -9,7 +9,7 @@ Nesta atividade, você aprenderá a contribuir com um projeto colaborativo usand
 
 1. **Fork do Repositório:**
    - Faça login na sua conta do GitHub.
-   - Acesse o repositório fornecido pela professora.
+   - Acesse o repositório fornecido [nesse link](https://github.com/b1z3rr4/atividade-git).
    - Clique no botão "Fork" no canto superior direito da página para criar uma cópia do repositório na sua conta do GitHub.
 
 2. **Clone do Repositório Forkado:**
@@ -65,7 +65,7 @@ Nesta atividade, você aprenderá a contribuir com um projeto colaborativo usand
 
 9. **Merge das Alterações no Repositório Original:**
    - Solicite à professora para fazer o merge das suas alterações no repositório original.
-   - Verifique se suas alterações foram incorporadas ao arquivo `LISTA.md` no repositório original da professora.
+   - Verifique se suas alterações foram incorporadas ao arquivo `LISTA.md` no repositório original.
 
 ---
 
