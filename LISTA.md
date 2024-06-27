@@ -5,4 +5,5 @@
 ---
 
 - 🌸 **Natalia Bezerra** - Prof Front End
+- 🌼 Natalia Bezerra 2
 - 🌼 **Adryann Layon** - Aluno Front End
