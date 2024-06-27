@@ -5,5 +5,6 @@
 ---
 
 - 🌸 **Natalia Bezerra** - Prof Front End
+- 🌼 Vítor Emanuel Pacheco de Sousa
 - 🌼 Emanuel Alves - Aluno de Front End
 - 🌼 Natalia Bezerra 2
