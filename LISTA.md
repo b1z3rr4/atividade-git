@@ -5,5 +5,8 @@
 ---
 
 - 🌸 **Natalia Bezerra** - Prof Front End
-- 🌼 Seu nome aqui
-- Bruno spanier
+
+- 🌼 Emanuel Alves - Aluno de Front End
+- 🌼 Natalia Bezerra 2
+- 🌼 Bruno spanier
+
