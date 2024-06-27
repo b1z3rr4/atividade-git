@@ -6,3 +6,6 @@
 
 - 🌸 **Natalia Bezerra** - Prof Front End
 - 👨‍🎓 **Gabriel Porto** - Aluno Front End
+- 🌼 Emanuel Alves - Aluno de Front End
+- 🌼 Natalia Bezerra 2
+
