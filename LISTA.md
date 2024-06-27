@@ -6,3 +6,4 @@
 
 - 🌸 **Natalia Bezerra** - Prof Front End
 - 🌼 Natalia Bezerra 2
+- Claudio Leite
