@@ -6,4 +6,5 @@
 
 - 🌸 **Natalia Bezerra** - Prof Front End
 - 🌼 Emanuel Alves - Aluno de Front End
+- 🌼 Igor Monsores - Aluno de Front End
 - 🌼 Natalia Bezerra 2
