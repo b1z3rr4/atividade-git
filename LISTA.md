@@ -5,4 +5,6 @@
 ---
 
 - 🌸 **Natalia Bezerra** - Prof Front End
-- 🌼 Arthur de Moraes Lordello
+- 🌼 Emanuel Alves - Aluno de Front End
+- 🌼 Natalia Bezerra 2
+- 🌈 Arthur de Moraes Lordello
