@@ -5,4 +5,4 @@
 ---
 
 - 🌸 **Natalia Bezerra** - Prof Front End
-- 🌼 Seu nome aqui
+- 👨‍🎓 **Gabriel Porto** - Aluno Front End
