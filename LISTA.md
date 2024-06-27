@@ -6,3 +6,4 @@
 
 - 🌸 **Natalia Bezerra** - Prof Front End
 - 🌼 Seu nome aqui
+- ✨ Luan Anderson Leite Silva - Aluno Front-End
