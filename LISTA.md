@@ -7,4 +7,4 @@
 - 🌸 **Natalia Bezerra** - Prof Front End
 - 🌼 Emanuel Alves - Aluno de Front End
 - 🌼 Natalia Bezerra 2
-- 🌷 Kelly Yasmim
+- 🌷 Kelly Yasmim - Aluna de Front End
